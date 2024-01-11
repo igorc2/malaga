@@ -1,0 +1,19 @@
+{
+  "name": "malaga-ds-tokens",
+  "version": "0.0.0",
+  "description": "tokens",
+  "author": "igor coelho <igorc2@gmail.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/mono-ds-tokens.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "node ./__tests__/mono-ds-tokens.test.js"
+  }
+}
